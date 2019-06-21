@@ -1,4 +1,4 @@
-
+DOMNodeCollection = require("./dom_node_collection");
 
 
 function $l(selector){
